@@ -1,0 +1,1752 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 07:18:59
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.33                                |7.4.30
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.4.30 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache/2.4.54 (Debian)
+DOC ROOT____________: "/var/www/html"
+REQUEST URL_________: "http://localhost:8000"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/var/www/html"
+URL_NEW_____________: "http://localhost:8000"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/var/www/html/20221109_caviarchalet_[HASH]_20221118152017_archive.zip"
+ARCHIVE SIZE________: 67.41MB
+CREATED_____________: 2022-11-18 15:20:17
+WP VERSION__________: 6.1.1
+DUP VERSION_________: 1.5.1
+LICENSE_____________: Free version
+DB VERSION__________: 10.4.25
+DB FILE SIZE________: 8.63MB
+DB TABLES___________: 41
+DB ROWS_____________: 4241
+URL HOME____________: https://wordpress.sebastien-deren.fr
+URL CORE____________: https://wordpress.sebastien-deren.fr
+URL CONTENT_________: https://wordpress.sebastien-deren.fr/wp-content
+URL UPLOAD__________: http://wordpress.sebastien-deren.fr/wp-content/uploads
+URL PLUGINS_________: https://wordpress.sebastien-deren.fr/wp-content/plugins
+URL MU PLUGINS______: http://wordpress.sebastien-deren.fr/wp-content/mu-plugins
+URL THEMES__________: https://wordpress.sebastien-deren.fr/wp-content/themes
+PATH HOME___________: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr
+PATH ABS____________: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr
+PATH WPCONFIG_______: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr
+PATH WPCONTENT______: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr/wp-content
+PATH UPLOADS________: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr/wp-content/uploads
+PATH PLUGINS________: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr/wp-content/plugins
+PATH MUPLUGINS______: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr/wp-content/mu-plugins
+PATH THEMES_________: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "wordpress.sebastien-deren.fr/"
+
+PLUGINS
+PLUGIN [SLUG:advanced-custom-fields/acf.php                    ][ON:true ]  Advanced Custom Fields
+PLUGIN [SLUG:anwp-post-grid-for-elementor/anwp-post-grid.php   ][ON:true ]  AnWP Post Grid and Post Carousel Slider for Elementor
+PLUGIN [SLUG:kt-tinymce-color-grid/index.php                   ][ON:true ]  Central Color Palette
+PLUGIN [SLUG:custom-post-type-ui/custom-post-type-ui.php       ][ON:true ]  Custom Post Type UI
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:header-footer-elementor/header-footer-elementor.php][ON:true ]  Elementor Header & Footer Builder
+PLUGIN [SLUG:really-simple-ssl/rlrsssl-really-simple-ssl.php   ][ON:true ]  Really Simple SSL
+PLUGIN [SLUG:wp-smushit/wp-smush.php                           ][ON:true ]  Smush
+PLUGIN [SLUG:wp-optimize/wp-optimize.php                       ][ON:true ]  WP-Optimize - Clean, Compress, Cache
+PLUGIN [SLUG:wpforms-lite/wpforms.php                          ][ON:true ]  WPForms Lite
+PLUGIN [SLUG:wps-hide-login/wps-hide-login.php                 ][ON:true ]  WPS Hide Login
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:true ]  Yoast SEO
+PLUGIN [SLUG:advanced-cache.php                                ][ON:false]  advanced-cache.php
+
+********************************************************************************
+SECURE CHECK -> GO TO SECURE PAGE
+[PHP ERR][E_NOTICE] MSG:ob_end_clean(): failed to delete buffer. No buffer to delete [CODE:8|FILE:/var/www/html/dup-installer/main.installer.php|LINE:84]
+LOG-TIME[/var/www/html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.07610]  MESSAGE:END RENDER PAGE
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "initialized"
+[PHP ERR][E_NOTICE] MSG:ob_end_clean(): failed to delete buffer. No buffer to delete [CODE:8|FILE:/var/www/html/dup-installer/main.installer.php|LINE:84]
+LOG-TIME[/var/www/html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.04448]  MESSAGE:END RENDER PAGE
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "on-validate"
+[PHP ERR][E_NOTICE] MSG:ob_end_clean(): failed to delete buffer. No buffer to delete [CODE:8|FILE:/var/www/html/dup-installer/main.installer.php|LINE:84]
+LOG-TIME[/var/www/html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.06472]  MESSAGE:END RENDER PAGE
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00080]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Overwrite Install" RESULT: soft warning
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00019]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/var/www/html"
+--------------------------------------
+LOG-TIME[DELTA:   0.53915]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00041]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01531]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.05588]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00016]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+[PHP ERR][E_WARNING] MSG:mysqli_real_connect(): (HY000/1045): Access denied for user ''@'172.27.0.3' (using password: NO) [CODE:2|FILE:/var/www/html/dup-installer/classes/database/class.db.php|LINE:56]
+DATABASE CONNECTION ERROR: Access denied for user ''@'172.27.0.3' (using password: NO)[ERRNO:1045]
+
+INSTALLER ERROR:
+Unable to connect with the following parameters:
+HOST: "db"
+DBUSER: ""
+DATABASE: NULL
+MESSAGE: Error: Access denied for user ''@'172.27.0.3' (using password: NO)
+
+MAINTENANCE MODE DISABLE
+
+      TEST "Host Connection" EXCEPTION: Unable to connect with the following parameters:<br/>HOST: "db"
+DBUSER: ""
+DATABASE: NULL
+MESSAGE: Error: Access denied for user ''@'172.27.0.3' (using password: NO)
+	FILE:/var/www/html/dup-installer/src/Utils/Log/Log.php[398]
+	TRACE:
+#0 /var/www/html/dup-installer/classes/database/class.db.functions.php(130): Duplicator\Installer\Utils\Log\Log::error('Unable to conne...')
+#1 /var/www/html/dup-installer/classes/validation/class.validation.database.service.php(72): DUPX_DB_Functions->dbConnection(Array)
+#2 /var/www/html/dup-installer/classes/validation/database-tests/class.validation.test.db.connection.php(26): DUPX_Validation_database_service->getDbConnection()
+#3 /var/www/html/dup-installer/classes/validation/class.validation.abstract.item.php(45): DUPX_Validation_test_db_connection->runTest()
+#4 /var/www/html/dup-installer/classes/validation/class.validation.manager.php(229): DUPX_Validation_abstract_item->test(true)
+#5 /var/www/html/dup-installer/classes/validation/class.validation.manager.php(202): DUPX_Validation_manager->runTests()
+#6 /var/www/html/dup-installer/ctrls/classes/class.ctrl.ajax.php(168): DUPX_Validation_manager->getValidateData()
+#7 /var/www/html/dup-installer/ctrls/classes/class.ctrl.ajax.php(93): DUPX_Ctrl_ajax::actions('validate')
+#8 /var/www/html/dup-installer/main.installer.php(56): DUPX_Ctrl_ajax::controller()
+#9 {main}
+
+LOG-TIME[DELTA:   0.00223]  MESSAGE:TEST "Host Connection" RESULT: failed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Version" RESULT: skip
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Engine Support" RESULT: skip
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database GTID Mode" RESULT: skip
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Visibility" RESULT: skip
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: skip
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Resources" RESULT: skip
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Table Access" RESULT: skip
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: skip
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: skip
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and Collation Support" RESULT: skip
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: skip
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: skip
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Prefix too long" RESULT: skip
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "on-validate"
+[PHP ERR][E_NOTICE] MSG:ob_end_clean(): failed to delete buffer. No buffer to delete [CODE:8|FILE:/var/www/html/dup-installer/main.installer.php|LINE:84]
+LOG-TIME[/var/www/html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.07688]  MESSAGE:END RENDER PAGE
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Overwrite Install" RESULT: soft warning
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00020]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/var/www/html"
+--------------------------------------
+LOG-TIME[DELTA:   0.14191]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01233]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.04788]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00010]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+[PHP ERR][E_WARNING] MSG:mysqli_real_connect(): (HY000/2002): No such file or directory [CODE:2|FILE:/var/www/html/dup-installer/classes/database/class.db.php|LINE:56]
+DATABASE CONNECTION ERROR: No such file or directory[ERRNO:2002]
+
+INSTALLER ERROR:
+Unable to connect with the following parameters:
+HOST: "localhost:3306"
+DBUSER: "wordpress"
+DATABASE: NULL
+MESSAGE: Error: No such file or directory
+
+MAINTENANCE MODE DISABLE
+
+      TEST "Host Connection" EXCEPTION: Unable to connect with the following parameters:<br/>HOST: "localhost:3306"
+DBUSER: "wordpress"
+DATABASE: NULL
+MESSAGE: Error: No such file or directory
+	FILE:/var/www/html/dup-installer/src/Utils/Log/Log.php[398]
+	TRACE:
+#0 /var/www/html/dup-installer/classes/database/class.db.functions.php(130): Duplicator\Installer\Utils\Log\Log::error('Unable to conne...')
+#1 /var/www/html/dup-installer/classes/validation/class.validation.database.service.php(72): DUPX_DB_Functions->dbConnection(Array)
+#2 /var/www/html/dup-installer/classes/validation/database-tests/class.validation.test.db.connection.php(26): DUPX_Validation_database_service->getDbConnection()
+#3 /var/www/html/dup-installer/classes/validation/class.validation.abstract.item.php(45): DUPX_Validation_test_db_connection->runTest()
+#4 /var/www/html/dup-installer/classes/validation/class.validation.manager.php(229): DUPX_Validation_abstract_item->test(true)
+#5 /var/www/html/dup-installer/classes/validation/class.validation.manager.php(202): DUPX_Validation_manager->runTests()
+#6 /var/www/html/dup-installer/ctrls/classes/class.ctrl.ajax.php(168): DUPX_Validation_manager->getValidateData()
+#7 /var/www/html/dup-installer/ctrls/classes/class.ctrl.ajax.php(93): DUPX_Ctrl_ajax::actions('validate')
+#8 /var/www/html/dup-installer/main.installer.php(56): DUPX_Ctrl_ajax::controller()
+#9 {main}
+
+LOG-TIME[DELTA:   0.00040]  MESSAGE:TEST "Host Connection" RESULT: failed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database Version" RESULT: skip
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database Engine Support" RESULT: skip
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database GTID Mode" RESULT: skip
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Visibility" RESULT: skip
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: skip
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Resources" RESULT: skip
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Table Access" RESULT: skip
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: skip
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Source Database Triggers" RESULT: skip
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Character Set and Collation Support" RESULT: skip
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: skip
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: skip
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Prefix too long" RESULT: skip
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "on-validate"
+[PHP ERR][E_NOTICE] MSG:ob_end_clean(): failed to delete buffer. No buffer to delete [CODE:8|FILE:/var/www/html/dup-installer/main.installer.php|LINE:84]
+LOG-TIME[/var/www/html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.02249]  MESSAGE:END RENDER PAGE
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Overwrite Install" RESULT: soft warning
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00016]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/var/www/html"
+--------------------------------------
+LOG-TIME[DELTA:   0.14844]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01293]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.04765]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00336]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00117]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00030]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00019]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00015]  MESSAGE:TEST "Privileges: User Visibility" RESULT: failed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: skip
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Resources" RESULT: skip
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Table Access" RESULT: skip
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: skip
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: skip
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and Collation Support" RESULT: skip
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: skip
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: skip
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Prefix too long" RESULT: skip
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "on-validate"
+[PHP ERR][E_NOTICE] MSG:ob_end_clean(): failed to delete buffer. No buffer to delete [CODE:8|FILE:/var/www/html/dup-installer/main.installer.php|LINE:84]
+LOG-TIME[/var/www/html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.01918]  MESSAGE:END RENDER PAGE
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Overwrite Install" RESULT: soft warning
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00025]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/var/www/html"
+--------------------------------------
+LOG-TIME[DELTA:   0.13922]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01166]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.05762]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00282]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00118]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00032]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00015]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Privileges: User Visibility" RESULT: failed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: skip
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Resources" RESULT: skip
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Table Access" RESULT: skip
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: skip
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Source Database Triggers" RESULT: skip
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Character Set and Collation Support" RESULT: skip
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: skip
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: skip
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Prefix too long" RESULT: skip
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "on-validate"
+[PHP ERR][E_NOTICE] MSG:ob_end_clean(): failed to delete buffer. No buffer to delete [CODE:8|FILE:/var/www/html/dup-installer/main.installer.php|LINE:84]
+LOG-TIME[/var/www/html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.02490]  MESSAGE:END RENDER PAGE
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Overwrite Install" RESULT: soft warning
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/var/www/html"
+--------------------------------------
+LOG-TIME[DELTA:   0.14908]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00017]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01243]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.04687]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00018]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00322]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00151]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00020]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00026]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00021]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00096]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/var/www/html/dup-installer/classes/database/class.db.php:639] MSG: SELECT command denied to user 'wordpress'@'172.27.0.3' for table 'user'
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'wordpress' AND host = 'db'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /var/www/html/dup-installer/classes/validation/class.validation.database.service.php[743]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /var/www/html/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /var/www/html/dup-installer/classes/validation/class.validation.abstract.item.php[45]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /var/www/html/dup-installer/classes/validation/class.validation.manager.php[229]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /var/www/html/dup-installer/classes/validation/class.validation.manager.php[202]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /var/www/html/dup-installer/ctrls/classes/class.ctrl.ajax.php[168]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /var/www/html/dup-installer/ctrls/classes/class.ctrl.ajax.php[93]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /var/www/html/dup-installer/main.installer.php[56]
+
+LOG-TIME[DELTA:   0.00028]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.05550]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00352]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00952]  MESSAGE:TEST "Character Set and Collation Support" RESULT: soft warning
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00058]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: hard warning
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00258]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00306]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: soft warning
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00051]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+DEFAULT DB_CHARSET [utf8] isn't valid, update DB_CHARSET to utf8mb4 and DB_COLLATE set empty
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/var/www/html"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-1 START @ 07:22:27
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Caviar & chalet"
+HOME URL NEW________: "http://localhost:8000"
+SITE URL NEW________: "http://localhost:8000/"
+CONTENT URL NEW_____: "http://localhost:8000/wp-content"
+UPLOAD URL NEW______: "http://localhost:8000/wp-content/uploads"
+PLUGINS URL NEW_____: "http://localhost:8000/wp-content/plugins"
+MUPLUGINS URL NEW___: "http://localhost:8000/wp-content/mu-plugins"
+HOME PATH NEW_______: "/var/www/html"
+SITE PATH NEW_______: "/var/www/html/"
+CONTENT PATH NEW____: "/var/www/html/wp-content"
+UPLOAD PATH NEW_____: "/var/www/html/wp-content/uploads"
+PLUGINS PATH NEW____: "/var/www/html/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/var/www/html/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/var/www/html/dup-installer"
+	FILE: "/var/www/html/20221109_caviarchalet_[HASH]_20221118152017_installer-backup.php"
+	FILE: "/var/www/html/20221109_caviarchalet_[HASH]_20221118152017_archive.zip"
+	FILE: "/var/www/html/installer.php"
+	FILE: "/var/www/html/dup-installer-bootlog__62d66b7-18152017.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20221109_caviarchalet_[HASH]_20221118152017_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> START
+RESET CONFIG FILES: I'M GOING TO MOVE CONFIG FILE "wp-config.php" IN ORIGINAL FOLDER
+	CONFIG FILE HAS BEEN RESET
+RESET CONFIG FILES: I'M GOING TO MOVE CONFIG FILE ".htaccess" IN ORIGINAL FOLDER
+	CONFIG FILE HAS BEEN RESET
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+FILE EXTRACTION: done processing last file in list of 12992
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 07:22:31 - RUNTIME: 4.2582 sec. - Files processed: 25,054 of 25,054
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wp_
+
+
+
+********************************************************************************
+* DUPLICATOR LITE: INSTALL-LOG
+* STEP-2 START @ 07:22:31
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_actionscheduler_actions"______________________[ROWS:      95] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_actions]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_claims]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_groups]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:     273] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_logs]
+TABLE "wp_address_components"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_address_components]
+TABLE "wp_aioseo_cache"_________________________________[ROWS:      71] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_cache]
+TABLE "wp_aioseo_notifications"_________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_notifications]
+TABLE "wp_aioseo_posts"_________________________________[ROWS:     103] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_posts]
+TABLE "wp_commentmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_duplicator_packages"__________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_packages]
+TABLE "wp_ewwwio_images"________________________________[ROWS:     331] [EXTRACT|REPLACE] [INST NAME: wp_ewwwio_images]
+TABLE "wp_ewwwio_queue"_________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_ewwwio_queue]
+TABLE "wp_e_events"_____________________________________[ROWS:      12] [EXTRACT|REPLACE] [INST NAME: wp_e_events]
+TABLE "wp_fbuilder_fields"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_fbuilder_fields]
+TABLE "wp_fbuilder_fields_order"________________________[ROWS:      11] [EXTRACT|REPLACE] [INST NAME: wp_fbuilder_fields_order]
+TABLE "wp_fbuilder_sections"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_fbuilder_sections]
+TABLE "wp_fbuilder_sections_order"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_fbuilder_sections_order]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_options"______________________________________[ROWS:     623] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_postmeta"_____________________________________[ROWS:    1997] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:     235] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_qss"__________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_qss]
+TABLE "wp_shortpixel_folders"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_shortpixel_folders]
+TABLE "wp_shortpixel_meta"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_shortpixel_meta]
+TABLE "wp_shortpixel_postmeta"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_shortpixel_postmeta]
+TABLE "wp_smush_dir_images"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_smush_dir_images]
+TABLE "wp_termmeta"_____________________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:      19] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_term_relationships"___________________________[ROWS:      39] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:      19] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_tm_taskmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_tm_taskmeta]
+TABLE "wp_tm_tasks"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_tm_tasks]
+TABLE "wp_usermeta"_____________________________________[ROWS:     145] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wp_users]
+TABLE "wp_wpforms_tasks_meta"___________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_wpforms_tasks_meta]
+TABLE "wp_yoast_indexable"______________________________[ROWS:     246] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:     134] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable_hierarchy]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:      23] [EXTRACT|REPLACE] [INST NAME: wp_yoast_migrations]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:      14] [EXTRACT|REPLACE] [INST NAME: wp_yoast_primary_term]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:     116] [EXTRACT|REPLACE] [INST NAME: wp_yoast_seo_links]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.9.3 -- Build Server: 10.4.25
+FILE SIZE:	dup-database__[HASH].sql (4.22MB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE-GLOBAL:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+DROP TABLE wp_actionscheduler_actions
+DROP TABLE wp_actionscheduler_claims
+DROP TABLE wp_actionscheduler_groups
+DROP TABLE wp_actionscheduler_logs
+DROP TABLE wp_address_components
+DROP TABLE wp_aioseo_cache
+DROP TABLE wp_aioseo_notifications
+DROP TABLE wp_aioseo_posts
+DROP TABLE wp_commentmeta
+DROP TABLE wp_comments
+DROP TABLE wp_duplicator_packages
+DROP TABLE wp_e_events
+DROP TABLE wp_ewwwio_images
+DROP TABLE wp_ewwwio_queue
+DROP TABLE wp_fbuilder_fields
+DROP TABLE wp_fbuilder_fields_order
+DROP TABLE wp_fbuilder_sections
+DROP TABLE wp_fbuilder_sections_order
+DROP TABLE wp_links
+DROP TABLE wp_options
+DROP TABLE wp_postmeta
+DROP TABLE wp_posts
+DROP TABLE wp_qss
+DROP TABLE wp_shortpixel_folders
+DROP TABLE wp_shortpixel_meta
+DROP TABLE wp_shortpixel_postmeta
+DROP TABLE wp_smush_dir_images
+DROP TABLE wp_term_relationships
+DROP TABLE wp_term_taxonomy
+DROP TABLE wp_termmeta
+DROP TABLE wp_terms
+DROP TABLE wp_tm_taskmeta
+DROP TABLE wp_tm_tasks
+DROP TABLE wp_usermeta
+DROP TABLE wp_users
+DROP TABLE wp_wpforms_tasks_meta
+DROP TABLE wp_yoast_indexable
+DROP TABLE wp_yoast_indexable_hierarchy
+DROP TABLE wp_yoast_migrations
+DROP TABLE wp_yoast_primary_term
+DROP TABLE wp_yoast_seo_links
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+GLOBAL RULES ADDED: INVALID CHARSETS
+GLOBAL RULES ADDED: INVALID COLLATIONS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`wordpress`@`%`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8))([`'"]?\s.*COLLATE\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?.*$)/m
+	REPLACE => $1utf8mb4$3utf8mb4_general_ci$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?\s.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4_general_ci$3utf8mb4$5
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4$3
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?\s.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8_general_ci))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4$3utf8mb4_general_ci$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8_general_ci))([`'"]?\s.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?.*$)/m
+	REPLACE => $1utf8mb4_general_ci$3utf8mb4$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8_general_ci))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4_general_ci$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 3762374
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	41
+RENAMED TABLES:	0
+QUERIES RAN:	4570
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_actionscheduler_actions"______________________[ROWS:    95]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:     0]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:     3]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:   273]
+TABLE "wp_address_components"___________________________[ROWS:     0]
+TABLE "wp_aioseo_cache"_________________________________[ROWS:    71]
+TABLE "wp_aioseo_notifications"_________________________[ROWS:     1]
+TABLE "wp_aioseo_posts"_________________________________[ROWS:   103]
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:     0]
+TABLE "wp_duplicator_packages"__________________________[ROWS:     1]
+TABLE "wp_e_events"_____________________________________[ROWS:    12]
+TABLE "wp_ewwwio_images"________________________________[ROWS:   331]
+TABLE "wp_ewwwio_queue"_________________________________[ROWS:     0]
+TABLE "wp_fbuilder_fields"______________________________[ROWS:     0]
+TABLE "wp_fbuilder_fields_order"________________________[ROWS:    11]
+TABLE "wp_fbuilder_sections"____________________________[ROWS:     0]
+TABLE "wp_fbuilder_sections_order"______________________[ROWS:     0]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   624]
+TABLE "wp_postmeta"_____________________________________[ROWS:  1997]
+TABLE "wp_posts"________________________________________[ROWS:   235]
+TABLE "wp_qss"__________________________________________[ROWS:     0]
+TABLE "wp_shortpixel_folders"___________________________[ROWS:     0]
+TABLE "wp_shortpixel_meta"______________________________[ROWS:     0]
+TABLE "wp_shortpixel_postmeta"__________________________[ROWS:     0]
+TABLE "wp_smush_dir_images"_____________________________[ROWS:     0]
+TABLE "wp_term_relationships"___________________________[ROWS:    39]
+TABLE "wp_term_taxonomy"________________________________[ROWS:    19]
+TABLE "wp_termmeta"_____________________________________[ROWS:     4]
+TABLE "wp_terms"________________________________________[ROWS:    19]
+TABLE "wp_tm_taskmeta"__________________________________[ROWS:     0]
+TABLE "wp_tm_tasks"_____________________________________[ROWS:     0]
+TABLE "wp_usermeta"_____________________________________[ROWS:   145]
+TABLE "wp_users"________________________________________[ROWS:     4]
+TABLE "wp_wpforms_tasks_meta"___________________________[ROWS:     5]
+TABLE "wp_yoast_indexable"______________________________[ROWS:   246]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:   134]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:    23]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:    14]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:   116]
+
+INSERT DATA RUNTIME: 6.5731 sec.
+STEP-2 COMPLETE @ 07:22:38 - RUNTIME: 6.5731 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr REPLACE: /var/www/html/ [SCOPE: ALL]
+SEARCH ITEM[T:path |P:12] SEARCH: /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr REPLACE: /var/www/html [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:10] SEARCH: http://wordpress.sebastien-deren.fr/wp-content/uploads REPLACE: http://localhost:8000/wp-content/uploads [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://wordpress.sebastien-deren.fr REPLACE: http://localhost:8000/ [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://wordpress.sebastien-deren.fr REPLACE: http://localhost:8000 [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:10] SEARCH: http://wordpress.sebastien-deren.fr/wp-content/mu-plugins REPLACE: http://localhost:8000/wp-content/mu-plugins [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR LITE: INSTALL-LOG
+STEP-3 START @ 07:22:38
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 1], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = ], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = 1], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 640M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 640M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wp_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_ui_view_state","duplicator_package_active","duplicator_settings","duplicator_is_pro_enable_notice_dismissed")
+DATABASE OPTIONS DELETED [ROWS:    87]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    95][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:   273][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_logs][0]
+
+EVALUATE TABLE: "wp_address_components"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aioseo_cache"_________________________________[ROWS:    71][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_aioseo_cache][0]
+
+EVALUATE TABLE: "wp_aioseo_notifications"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_aioseo_notifications][0]
+
+EVALUATE TABLE: "wp_aioseo_posts"_________________________________[ROWS:   103][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_aioseo_posts][0]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_ewwwio_images"________________________________[ROWS:   331][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_ewwwio_images][0]
+
+EVALUATE TABLE: "wp_ewwwio_queue"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_events"_____________________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_e_events][0]
+
+EVALUATE TABLE: "wp_fbuilder_fields"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fbuilder_fields_order"________________________[ROWS:    11][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_fbuilder_fields_order][0]
+
+EVALUATE TABLE: "wp_fbuilder_sections"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fbuilder_sections_order"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   537][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  1997][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   235][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+
+EVALUATE TABLE: "wp_qss"__________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_shortpixel_folders"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_shortpixel_meta"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_shortpixel_postmeta"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_smush_dir_images"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_termmeta][0]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    19][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:    39][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    19][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_tm_taskmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_tm_tasks"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:   145][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wpforms_tasks_meta"___________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpforms_tasks_meta][0]
+
+EVALUATE TABLE: "wp_yoast_indexable"______________________________[ROWS:   246][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_indexable][0]
+
+EVALUATE TABLE: "wp_yoast_indexable_hierarchy"____________________[ROWS:   134][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_migrations"_____________________________[ROWS:    23][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_migrations][0]
+
+EVALUATE TABLE: "wp_yoast_primary_term"___________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_primary_term][0]
+
+EVALUATE TABLE: "wp_yoast_seo_links"______________________________[ROWS:   116][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  1:"http://wordpress.sebastien-deren.fr/wp-content/uploads" => "http://localhost:8000/wp-content/uploads"
+	SEARCH[urlnd]  2:"http://wordpress.sebastien-deren.fr/wp-content/mu-plugins" => "http://localhost:8000/wp-content/mu-plugins"
+	SEARCH[path ]  3:"/home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr" => "/var/www/html"
+	SEARCH[urlnd]  4:"https://wordpress.sebastien-deren.fr" ============> "http://localhost:8000"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_seo_links][0]
+--------------------------------------
+SCANNED:	Tables:41 	|	 Rows:4264 	|	 Cells:44682 
+UPDATED:	Tables:7 	|	 Rows:764 	|	 Cells:1140 
+ERRORS:		0 
+RUNTIME:	1.600800 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/var/www/html/wp-config.php
+New htaccess file created:/var/www/html/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_SITEURL "http://localhost:8000/"
+	UPDATE DB_NAME ""wordpress""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""db""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE "true"
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+Activated plugins listed here will be deactivated: Array
+(
+)
+
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/var/www/html"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 07:22:40 - RUNTIME: 1.8156 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+[PHP ERR][E_NOTICE] MSG:ob_end_clean(): failed to delete buffer. No buffer to delete [CODE:8|FILE:/var/www/html/dup-installer/main.installer.php|LINE:84]
+
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[WARNING] One or multiple config files were found in main WordPress folders
+	SECTIONS: general
+	LONG MSG: Config files in WordPress main folders may cause problems with accessing the site after the installation. The following config files were found: - /var/www/html/wp-content/.htaccessPlease consider removing those files in case you have problems with your site after the installation.
+
+-----------------------
+[NOTICE] Plugin WPS Hide Login disabled by default
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated by default automatically due to issues that one may encounter when migrating. You must reactivate from the WordPress admin panel after completing the installation or from the plugins tab. Your site's frontend will render properly after reactivating the plugin.
+
+====================================
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[WARNING] One or multiple config files were found in main WordPress folders
+	SECTIONS: general
+	LONG MSG: Config files in WordPress main folders may cause problems with accessing the site after the installation. The following config files were found: - /var/www/html/wp-content/.htaccessPlease consider removing those files in case you have problems with your site after the installation.
+
+-----------------------
+[WARNING] Deactivated plugin: Really Simple SSL
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated because you are migrating from SSL (HTTPS) to Non-SSL (HTTP).If it was not deactivated, you would not be able to login.
+
+-----------------------
+[NOTICE] WPS Hide Login has been deactivated
+	SECTIONS: plugins
+
+-----------------------
+[NOTICE] Activate WPS Hide Login after you login.
+	SECTIONS: plugins
+
+====================================
+LOG-TIME[/var/www/html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.02431]  MESSAGE:END RENDER PAGE

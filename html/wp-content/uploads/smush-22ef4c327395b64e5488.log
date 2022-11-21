@@ -1,0 +1,100 @@
+[2022-11-16 14:32:11 : INFO] - Re_Smush_It_Task with attachment ID : 2003, autocreated on : November 16, 2022 02:32:11 
+[2022-11-16 14:43:29 : INFO] - 
+ 
+[2022-11-16 14:43:29 : INFO] - Header for logs at time:  Wed, 16 Nov 2022 14:43:29 +0000 on https://wordpress.sebastien-deren.fr 
+[2022-11-16 14:43:29 : INFO] - WP: 6.1.1 
+[2022-11-16 14:43:29 : INFO] - PHP: 7.4.32 (fpm-fcgi, Linux h2web328 4.9.0-0.bpo.12-amd64 #1 SMP Debian 4.9.210-1+deb9u1~deb8u1 (2020-06-09) x86_64) 
+[2022-11-16 14:43:29 : INFO] - MySQL: 5.5.5 
+[2022-11-16 14:43:29 : INFO] - WPLANG: fr_FR 
+[2022-11-16 14:43:29 : INFO] - Server: Apache 
+[2022-11-16 14:43:29 : INFO] - Outbound connections: N 
+[2022-11-16 14:43:29 : INFO] - safe_mode: 0 
+[2022-11-16 14:43:29 : INFO] - max_execution_time: 60 
+[2022-11-16 14:43:29 : INFO] - memory_limit: 640M (used: 68.4M | 71M) 
+[2022-11-16 14:43:29 : INFO] - multisite: N 
+[2022-11-16 14:43:29 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2022-11-16 14:43:29 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-11-16 14:43:29 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-11-16 14:43:29 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-11-16 14:43:29 : INFO] - Processing task with ID : 132, and type 'smush' 
+[2022-11-16 14:43:29 : INFO] - Re_Smush_It_Task with attachment ID : 2003, autocreated on : November 16, 2022 02:32:11 
+[2022-11-16 14:43:29 : INFO] - 60 
+[2022-11-16 14:43:30 : INFO] - Backing up the original image - 2022/11/paysage_montagne_courchevel-updraft-pre-smush-original.jpg 
+[2022-11-16 14:43:30 : INFO] - Re_Smush_It_Task with attachment ID : 2003, autocreated on : November 16, 2022 02:32:11 
+[2022-11-16 14:43:30 : INFO] - 60 
+[2022-11-16 14:43:30 : INFO] - Re_Smush_It_Task with attachment ID : 2003, autocreated on : November 16, 2022 02:32:11 
+[2022-11-16 14:43:30 : INFO] - 60 
+[2022-11-16 14:43:30 : INFO] - Re_Smush_It_Task with attachment ID : 2003, autocreated on : November 16, 2022 02:32:11 
+[2022-11-16 14:43:30 : INFO] - 60 
+[2022-11-16 14:43:30 : INFO] - Successfully optimized the image - /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr/wp-content/uploads/2022/11/paysage_montagne_courchevel.jpg. 
+[2022-11-16 14:43:30 : INFO] - Completed processing task with ID : 132, and type 'smush' 
+[2022-11-16 14:43:30 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-11-16 14:43:30 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-11-16 14:43:30 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-11-16 14:43:30 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-11-16 14:53:35 : INFO] - 
+ 
+[2022-11-16 14:53:35 : INFO] - Header for logs at time:  Wed, 16 Nov 2022 14:53:35 +0000 on https://wordpress.sebastien-deren.fr 
+[2022-11-16 14:53:35 : INFO] - WP: 6.1.1 
+[2022-11-16 14:53:35 : INFO] - PHP: 7.4.32 (fpm-fcgi, Linux h2web328 4.9.0-0.bpo.12-amd64 #1 SMP Debian 4.9.210-1+deb9u1~deb8u1 (2020-06-09) x86_64) 
+[2022-11-16 14:53:35 : INFO] - MySQL: 5.5.5 
+[2022-11-16 14:53:35 : INFO] - WPLANG: fr_FR 
+[2022-11-16 14:53:35 : INFO] - Server: Apache 
+[2022-11-16 14:53:35 : INFO] - Outbound connections: N 
+[2022-11-16 14:53:35 : INFO] - safe_mode: 0 
+[2022-11-16 14:53:35 : INFO] - max_execution_time: 60 
+[2022-11-16 14:53:35 : INFO] - memory_limit: 640M (used: 68.4M | 71M) 
+[2022-11-16 14:53:35 : INFO] - multisite: N 
+[2022-11-16 14:53:35 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2022-11-16 14:53:35 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-11-18 09:10:10 : INFO] - Re_Smush_It_Task with attachment ID : 2038, autocreated on : November 18, 2022 09:10:10 
+[2022-11-18 09:15:49 : INFO] - 
+ 
+[2022-11-18 09:15:49 : INFO] - Header for logs at time:  Fri, 18 Nov 2022 09:15:49 +0000 on https://wordpress.sebastien-deren.fr 
+[2022-11-18 09:15:49 : INFO] - WP: 6.1.1 
+[2022-11-18 09:15:49 : INFO] - PHP: 7.4.33 (fpm-fcgi, Linux h2web328 4.9.0-0.bpo.12-amd64 #1 SMP Debian 4.9.210-1+deb9u1~deb8u1 (2020-06-09) x86_64) 
+[2022-11-18 09:15:49 : INFO] - MySQL: 5.5.5 
+[2022-11-18 09:15:49 : INFO] - WPLANG: fr_FR 
+[2022-11-18 09:15:49 : INFO] - Server: Apache 
+[2022-11-18 09:15:49 : INFO] - Outbound connections: N 
+[2022-11-18 09:15:49 : INFO] - safe_mode: 0 
+[2022-11-18 09:15:49 : INFO] - max_execution_time: 60 
+[2022-11-18 09:15:49 : INFO] - memory_limit: 640M (used: 76M | 77M) 
+[2022-11-18 09:15:49 : INFO] - multisite: N 
+[2022-11-18 09:15:49 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2022-11-18 09:15:49 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-11-18 09:15:49 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-11-18 09:15:49 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-11-18 09:15:49 : INFO] - Processing task with ID : 153, and type 'smush' 
+[2022-11-18 09:15:49 : INFO] - Re_Smush_It_Task with attachment ID : 2038, autocreated on : November 18, 2022 09:10:10 
+[2022-11-18 09:15:49 : INFO] - 60 
+[2022-11-18 09:15:53 : INFO] - Backing up the original image - 2022/11/courchevel-1850-cropped-1100x531-3347950803-updraft-pre-smush-original.png 
+[2022-11-18 09:15:53 : INFO] - Re_Smush_It_Task with attachment ID : 2038, autocreated on : November 18, 2022 09:10:10 
+[2022-11-18 09:15:53 : INFO] - 60 
+[2022-11-18 09:15:53 : INFO] - Re_Smush_It_Task with attachment ID : 2038, autocreated on : November 18, 2022 09:10:10 
+[2022-11-18 09:15:54 : INFO] - 60 
+[2022-11-18 09:15:56 : INFO] - Re_Smush_It_Task with attachment ID : 2038, autocreated on : November 18, 2022 09:10:10 
+[2022-11-18 09:15:56 : INFO] - 60 
+[2022-11-18 09:15:56 : INFO] - Re_Smush_It_Task with attachment ID : 2038, autocreated on : November 18, 2022 09:10:10 
+[2022-11-18 09:15:56 : INFO] - 60 
+[2022-11-18 09:15:57 : INFO] - Successfully optimized the image - /home/clients/550ab55aa9f1af60db401dfade345bcc/sites/wordpress.sebastien-deren.fr/wp-content/uploads/2022/11/courchevel-1850-cropped-1100x531-3347950803.png. 
+[2022-11-18 09:15:57 : INFO] - Completed processing task with ID : 153, and type 'smush' 
+[2022-11-18 09:15:57 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-11-18 09:15:57 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-11-18 09:15:57 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-11-18 09:15:57 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-11-18 09:26:07 : INFO] - 
+ 
+[2022-11-18 09:26:07 : INFO] - Header for logs at time:  Fri, 18 Nov 2022 09:26:07 +0000 on https://wordpress.sebastien-deren.fr 
+[2022-11-18 09:26:07 : INFO] - WP: 6.1.1 
+[2022-11-18 09:26:07 : INFO] - PHP: 7.4.33 (fpm-fcgi, Linux h2web328 4.9.0-0.bpo.12-amd64 #1 SMP Debian 4.9.210-1+deb9u1~deb8u1 (2020-06-09) x86_64) 
+[2022-11-18 09:26:07 : INFO] - MySQL: 5.5.5 
+[2022-11-18 09:26:07 : INFO] - WPLANG: fr_FR 
+[2022-11-18 09:26:07 : INFO] - Server: Apache 
+[2022-11-18 09:26:07 : INFO] - Outbound connections: N 
+[2022-11-18 09:26:07 : INFO] - safe_mode: 0 
+[2022-11-18 09:26:07 : INFO] - max_execution_time: 60 
+[2022-11-18 09:26:07 : INFO] - memory_limit: 640M (used: 76.1M | 79M) 
+[2022-11-18 09:26:07 : INFO] - multisite: N 
+[2022-11-18 09:26:07 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2022-11-18 09:26:07 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

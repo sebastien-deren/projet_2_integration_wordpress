@@ -1,0 +1,6 @@
+<IfModule mod_mime.c>
+    ContentDigest On
+</IfModule>
+<IfModule !mod_mime.c>
+    ContentDigest Off
+</IfModule>
